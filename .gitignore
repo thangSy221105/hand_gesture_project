@@ -1,0 +1,10 @@
+# Local MANUS-HaGRID subset, source metadata and licenses
+/data/manus_hagrid/
+
+# Project-local runtime used to execute the experiment notebook
+/.runtime_packages/
+
+# Notebook and Python transient files
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
